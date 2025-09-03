@@ -1,2 +1,3 @@
 # Assignment 1
-Nicole Blackburn
+- Nicole Blackburn
+- 
